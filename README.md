@@ -1,7 +1,7 @@
 # Course-project-1
 First year course project for university
 
-[Link to an executable file](Releases/tag/SmartHome/SmartHome.zip)
+[Link to an executable file](Releases/tag/SmartHome)
 
 Alternatevly, to download an executable file, go to:
 
