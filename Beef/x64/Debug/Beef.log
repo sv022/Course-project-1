@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(34,1): warning C4305: =: усечение из "double" в "float"
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(54,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(58,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(62,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(67,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(71,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(75,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(80,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(84,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(87,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(91,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(94,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(97,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(117,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(120,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(123,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\.11Main\vscode\c++\.vscode\Beef\Terminal.h(126,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Sensors.cpp
+D:\.11Main\vscode\c++\.vscode\Beef\Sensors.cpp(17,24): warning C4305: =: усечение из "double" в "float"
+D:\.11Main\vscode\c++\.vscode\Beef\Sensors.cpp(22,24): warning C4305: =: усечение из "double" в "float"
+D:\.11Main\vscode\c++\.vscode\Beef\Sensors.cpp(23,13): warning C4305: =: усечение из "double" в "float"
+D:\.11Main\vscode\c++\.vscode\Beef\Sensors.cpp(27,24): warning C4305: =: усечение из "double" в "float"
+D:\.11Main\vscode\c++\.vscode\Beef\Sensors.cpp(33,24): warning C4305: =: усечение из "double" в "float"
+D:\.11Main\vscode\c++\.vscode\Beef\Sensors.cpp(56,60): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Beef.vcxproj -> D:\.11Main\vscode\c++\.vscode\Beef\x64\Debug\Beef.exe

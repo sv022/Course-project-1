@@ -1,0 +1,5 @@
+D:\.11Main\vscode\c++\.vscode\Beef\x64\Debug\Beef.vcxproj.AssemblyReference.cache
+D:\.11Main\vscode\c++\.vscode\Beef\x64\Debug\Beef.vcxproj.SuggestedBindingRedirects.cache
+D:\.11Main\vscode\c++\.vscode\Beef\x64\Debug\Beef.MyForm.resources
+D:\.11Main\vscode\c++\.vscode\Beef\x64\Debug\Beef.vcxproj.GenerateResource.cache
+D:\.11Main\vscode\c++\.vscode\Beef\x64\Debug\Beef.exe
