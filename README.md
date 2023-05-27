@@ -9,4 +9,4 @@ To launch directly from the source code, download the repository, then go to:
 
 `Course-project-1-main/Beef/Beef.sln`
 
-and launch the project with VS code.
+and launch the project with Microsoft Visual Studio.
